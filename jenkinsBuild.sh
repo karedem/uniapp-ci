@@ -14,6 +14,8 @@ fi
 if [ -z "$UPLOAD_MSG" ]; then
 	UPLOAD_MSG="自动构建版本"
 fi
+
+echo "...等待安装npm依赖..."
 echo "$BRANCH $VERSION $UPLOAD_MSG"
 # 拉最新代码
 # 判断当前分支 若是master分支 确保请求url为线上环境 若是dev分支 确保请求url为测试环境
