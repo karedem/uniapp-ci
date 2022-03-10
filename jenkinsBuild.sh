@@ -18,24 +18,4 @@ fi
 echo "...等待安装npm依赖..."
 echo "$BRANCH $VERSION $UPLOAD_MSG"
 
-# npm install
-
-# npm build weixin/zfb/toutiao
-
-# 
-
-# 微信.sh
-# 本地启动开发者工具
-# 登陆开发者工具 
-# 对应api上传代码
-
-# zfb.sh
-# 本地启动开发者工具
-# 登陆开发者工具 
-# 对应api上传代码
-
-# toutiao.sh
-# 本地启动开发者工具
-# 登陆开发者工具 
-# 对应api上传代码
 
