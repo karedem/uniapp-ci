@@ -14,7 +14,7 @@ fi
 if [ -z "$UPLOAD_MSG" ]; then
 	UPLOAD_MSG="自动构建版本"
 fi
-
+echo "123"
 echo "...等待安装npm依赖..."
 echo "$BRANCH $VERSION $UPLOAD_MSG"
-# 1231112111111111111
+# 1231112111111
