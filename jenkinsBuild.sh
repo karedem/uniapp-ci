@@ -17,4 +17,4 @@ fi
 
 echo "...等待安装npm依赖..."
 echo "$BRANCH $VERSION $UPLOAD_MSG"
-# 123
+# 1232312
