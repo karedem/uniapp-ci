@@ -16,4 +16,4 @@ if [ -z "$UPLOAD_MSG" ]; then
 fi
 echo "...等待安装npm依赖..."
 echo "$BRANCH $VERSION $UPLOAD_MSG"
-# 123111211111111111
+# 123111211111111
